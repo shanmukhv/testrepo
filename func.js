@@ -1,6 +1,5 @@
 function double(num){
-	return x * 3;
+	return num * num;
 }
 
-var x = 2;
-double(x)
+print(double(x))
