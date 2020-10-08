@@ -1,4 +1,4 @@
-function multiplywith3(num){
+function multiply3(num){
 	return x * 3;
 }
 
