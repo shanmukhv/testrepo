@@ -1,4 +1,4 @@
-function multiply3(num){
+function double(num){
 	return x * 3;
 }
 
